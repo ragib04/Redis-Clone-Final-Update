@@ -30,7 +30,7 @@ This is a prototype for Redis with some basic functionalities. It can be used li
 Once the dependencies have been satisfied, app.py can directly be executed via any CLI. 
 
     python3 app.py
-The server will then be live on [http://localhost:5001/](http://localhost:5001/)
+The server will then be live on [http://localhost:5002/]([http://localhost:5001/](http://192.168.1.2:5002))
 
 ### **Overview**
 ---
